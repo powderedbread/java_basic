@@ -50,7 +50,6 @@ public class GreatCircle
                    )
                    );
 
-            //double c = 2 * Math.asin(Math.sqrt(a), Math.sqrt(1 - a));
             return result;
 
         }
