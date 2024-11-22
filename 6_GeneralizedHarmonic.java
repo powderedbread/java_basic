@@ -4,7 +4,7 @@ public class GeneralizedHarmonic
     {
         int n = Integer.parseInt(args[0]);
         int r = Integer.parseInt(args[1]);
-        double H=0;
+        double H=0.0;
     
 
         for (int i=1 ; i <= n ;  i++ )
